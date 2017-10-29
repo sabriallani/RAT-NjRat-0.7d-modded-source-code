@@ -14,6 +14,5 @@ Modded :-
 -Assembly Changer<br>
 
 
-
-<a href="https://gyazo.com/f15a6f503a7b30675e2e796f9a18a1ca"><img src="https://i.gyazo.com/f15a6f503a7b30675e2e796f9a18a1ca.png" alt="https://gyazo.com/f15a6f503a7b30675e2e796f9a18a1ca" width="450"/></a>
+<img src="https://i.gyazo.com/f15a6f503a7b30675e2e796f9a18a1ca.png" width="450"/>
 
